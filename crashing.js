@@ -7,4 +7,4 @@ console.log("No this is what i came for !");
 //************we still got much to learn ! *****/
 //woah this is truly wonderful 
 
-why are we still here , just to suffer ! ?
+//why are we still here , just to suffer ! ?
